@@ -166,9 +166,6 @@ void welcome() {
     pause(WELCOME_PAUSE1);
     stringPrinter("IT'S BOGGLE:30!", NEW_LINE);
     pause(WELCOME_PAUSE2);
-    stringPrinter("So pull your pants up, take a drag off your cig, ", NEW_LINE);
-    stringPrinter("and tell your lady-friend to make some sandwiches.....", NO_LINE);
-    stringPrinter("It's gonna be a long night.", NEW_LINE);
     cout << endl << endl;
 }
 
